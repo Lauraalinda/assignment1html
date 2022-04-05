@@ -1,0 +1,40 @@
+body{
+    padding:0;
+    margin:0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+.top-nav{
+    background-color: purple;
+    overflow:hidden;
+    
+    
+}
+.top-nav a{
+    color: peachpuff;
+    display: block;
+    padding: 14px 16px;
+    float:left;
+    text-decoration: none;
+    text-align: center;
+}
+
+.active{
+   background-color: indianred;
+}
+.top-nav a:hover{
+    background-color: rosybrown;
+}
+.top-nav a:active{
+    background-color:pink ;
+}
+.right{
+    float:right !important;
+}
+
+body{
+    background-image:url("/images.html/ass1.jpg");
+    background-position: center;
+    margin-bottom: 900px;
+    background-size: cover ;
+    background-repeat: no-repeat;
+}  
