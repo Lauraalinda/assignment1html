@@ -60,6 +60,9 @@ tr:nth-child(even){
 }
 
 .wrapper{
-    margin: 0 auto;
+    margin:left;
+    margin-top: 50px;
+    margin-left: 20px;
     width: 100px;
+
 }
